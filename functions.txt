@@ -1,0 +1,33 @@
+look at the problem and identify the peices that you can solve.
+make function for average and test it, then move on with the problem,
+
+breaking apart your code,
+
+def myf(parameter list)
+    body of the function here
+
+The Stack:
+    everytime you make a call to a function it is placed on the stack.
+
+pass by value
+    just the value is passed
+    or pass by object if mutable
+pass by reference
+    can append the list
+    lists dictionary are mutable.
+
+returning values is the primary way to get something out of a function
+it differs from a print in that
+
+can help with everything
+
+implicit aconversion
+def add(a, b):
+return a +b
+add(1,2) == 3
+add(1.0,
+
+can create a test function before you write the code before you write the function.
+
+for ass8
+

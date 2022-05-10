@@ -1,0 +1,61 @@
+pycodestyle
+pip installs python stuff
+system path needed to use the system executibles like python. as the executable.
+    needs to be on path for the computer to see that "python" is a keyword for executing
+    any python stuff.
+local path and system path are usually the same.
+
+stdio
+stddraw
+stdarray
+    know those at the basic level
+know what types are mutable and immutable.
+    str, int floats and bool are immutable but can be reassigned.
+variable name vs memory
+    object references
+type conversions
+
+
+conditional stuff
+    basic if syntax:
+LOOPING
+    understand the loop variable
+    while x = 10
+        x += 1
+print(x)
+
+variable scope
+    global vs local vs more local
+        where conflicts could happen
+    for i in range():
+        i is the internal local variable.
+        only can be used in the indected section
+        < points towards the input
+        > points the other way these only work in linux
+        use get-content in windows.
+        or piping |
+            closes something and smoked the pipe
+Writing functions
+    parameters or arguments
+    return values
+        can have multiple returns that is a tuple that python can decide what is does.
+    side effects
+        immutable vs immutable.
+    local and global scope.
+        funtions do only one thing,
+Modules
+    the reason for using them
+        to use in other programs
+    imports
+        import at the top like import sys
+        or
+        from x import y
+        import x as z
+        from x import * is he same as the standard import <thing>
+going to have to write functions or scripts basically
+there will be some errors that you must know what it means
+he is hard.
+we like to get hard but not as hard as vic cuase he is really hard
+like so hard bitch fuckyeah right yeah bitch fucking hard as god damn rocks over hear
+porn is the same as programming. just not really cause fucking porn you know. fucking porn
+vs nonfucking porn like fuck you portn
